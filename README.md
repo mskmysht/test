@@ -1,3 +1,3 @@
 ## Test Repository
 
-Hello, World!
+Hello, GitHub!
