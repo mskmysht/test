@@ -1,5 +1,3 @@
 ## Test Repository
 
-Hello!
-
-Goodbye!
+Hello, World!
